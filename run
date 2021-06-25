@@ -1,0 +1,6 @@
+
+### run in two terminals:
+
+/home/krzyhoo/Desktop/PyProject/venv/bin/python2.7 /home/krzyhoo/Desktop/PyProject/smpTest.py listen
+
+/home/krzyhoo/Desktop/PyProject/venv/bin/python2.7 /home/krzyhoo/Desktop/PyProject/smpTest.py localhost
